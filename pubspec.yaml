@@ -1,0 +1,17 @@
+name: dart_i18n
+description: A simple mechanism using the newly-introduced extension methods to facilitate translating strings in an application.
+version: 1.0.0
+author: IFAN CHU <ivanchu23@gmail.com>
+repository: https://github.com/ifanchu/dart_i18n.git
+
+
+environment:
+  sdk: ">=2.7.0"
+
+dependencies:
+  yaml: ^2.1.16
+  path: ^1.6.4
+
+dev_dependencies:
+  test: ^1.0.0
+  build_runner: ^1.0.0
